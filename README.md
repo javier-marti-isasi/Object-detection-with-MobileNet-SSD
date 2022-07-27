@@ -24,8 +24,8 @@ Object detection with MobileNet SSD pretrained on the MS COCO dataset and fine-t
 │   └── output_ima_06.jpg
 ├── MobileNetSSD_deploy.caffemodel
 ├── MobileNetSSD_deploy.prototxt.txt
-├── object_detection.py
 ├── README.md
+├── object_detection.py
 └── requirements.txt
 
 ```
