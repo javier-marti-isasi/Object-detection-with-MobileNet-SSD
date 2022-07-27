@@ -54,4 +54,6 @@ py object_detection.py --image images/ima_01.jpg --prototxt MobileNetSSD_deploy.
 
 ### Onject detection
 
-* ![](outputs/object_detections_image.jpg)
+```
+ outputs/object_detections_image.jpg
+ ```
