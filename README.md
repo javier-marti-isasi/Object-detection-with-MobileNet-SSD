@@ -52,6 +52,7 @@ py object_detection.py --image images/ima_01.jpg --prototxt MobileNetSSD_deploy.
 
 ## Outputs
 
+Object detection images are saved in:
 ```
  outputs/object_detections_image.jpg
  ```
